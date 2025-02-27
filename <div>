@@ -1,0 +1,16 @@
+div {
+  all: initial;
+}
+
+
+This rule will remove any styles previously applied to the <div>, except for unicode-bidi and direction.
+
+Browser Compatibility
+
+The all property is widely supported in modern browsers. It has been available across browsers since January 2020
+
+
+Use Cases
+
+Resetting Styles: Quickly remove all styles from an element to start with a clean slate.
+Scoped Styling: Apply the all property within a specific container to prevent inherited styles from affecting its children.
