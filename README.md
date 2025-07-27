@@ -2,6 +2,8 @@
 
 
 
+
+
 e# Termux application
 
 [![Build status](https://github.com/termux/termux-app/workflows/Build/badge.svg)](https://github.com/termux/termux-app/actions)
